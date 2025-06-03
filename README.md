@@ -9,7 +9,7 @@ Highly accomplished Data Engineer with a proven track record of designing, imple
 #### Beyond Engineering
 Outside of work, I enjoy surfing and maintain a personal guide on intentional style and grooming called "Malibu Grunge." You can explore it here: https://github.com/hellochris6/malibu-grunge
 
-#### What I Bring to the Team
+#### What I'll Bring to the Team
  * Proactive Problem Solving: I don't just solve tickets; I find and resolve deep-seated operational and financial inefficiencies.
  * Driving Measurable Impact: My projects deliver clear, quantifiable benefits, including cost savings, error reduction, increased efficiency, and improved data governance.
  * End-to-End Ownership: I take full responsibility for solutions, from conception through development and enterprise-level deployment.
