@@ -7,5 +7,5 @@ Highly accomplished Data Engineer with a proven track record of designing, imple
 #### Beyond Design
 Outside of design, I surf and maintain a style/grooming guide you can check out [here](https://github.com/hellochris6/malibu-grunge).
 #### Let's Connect!
-* **Email:** hellchrisblue@gmail.com
+* **Email:** hellochrisblue@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/02chrisblue
