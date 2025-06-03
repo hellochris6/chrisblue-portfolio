@@ -1,11 +1,11 @@
-S3 Manifest Key Encoder (Python Script)
+#### S3 Manifest Key Encoder (Python Script)
 
-Role: Data Engineer / Solutions Developer
-Objective: Automate S3 object key encoding for batch operations, resolving a critical technical support gap.
+#### Role: Data Engineer / Solutions Developer
+#### Objective: Automate S3 object key encoding for batch operations, resolving a critical technical support gap.
 
-Problem
-Challenge: S3 batch operations failed due to unaddressed URL encoding requirements for object keys, a high-level issue technical support couldn't resolve.
-Data: Frequent operation failures and workflow delays caused by incorrect key encoding.
+#### Problem
+    - Challenge: S3 batch operations failed due to unaddressed URL encoding requirements for object keys, a high-level issue technical support couldn't resolve.
+    - Data: Frequent operation failures and workflow delays caused by incorrect key encoding.
 (Quick visual of the problem: diagram of failed operation, or problematic key example.)
 
 Action
