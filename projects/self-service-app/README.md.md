@@ -1,8 +1,3 @@
-Repo Name: postprod-ss-archive
-
-[Project Title: E.g., "Checkout Flow Optimization"]
-
-
 Post Production Self-Service Archive Portal
 
 Context
