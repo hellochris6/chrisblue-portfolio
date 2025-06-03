@@ -11,7 +11,7 @@ Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
 
 **Key Accomplishments & Contributions (Quantified & Impact-Focused):**
 * **Led Large-Scale Data Migrations:** Successfully executed migrations of significant data volumes across diverse ecosystems (BuzzFeed, Meta, Adobe, First We Feast), including critical "Lostin/Bringme" and "Adobe Data Migration" projects, leveraging AWS S3 batch operations and Python scripting for efficiency and reliability.
-* **Streamlined Archiving Processes:** Designed and implemented a self-service archiving workflow for Post Production, which "Streamlined BuzzFeed's Archiving Process".
+* **Streamlined Archiving Processes:** Designed and implemented a self-service archiving workflow for Post Production, which streamlined BuzzFeed's archiving process. 
 * **Developed Internal Automation Tool:** Built an internal web tool to automate manifest generation for efficient ML content data migrations, simplifying complex AWS S3 batch operations and empowering internal teams.
 * **Optimized Cloud Storage & Infrastructure:** Configured Iconik/AWS and Qumulo/AWS S3 copy, improving data accessibility and storage efficiency. Proactively managed disk usage across multiple cloud and NAS/SAN storage pools to optimize resource allocation.
 * **Ensured Data Availability & Durability:** Orchestrated and delivered large-scale data restores for critical projects like "Filmrise Large-Scale Restore and Delivery" and "Hot Ones/Meta Large-Scale Restore and Delivery", ensuring timely content availability and business continuity.
