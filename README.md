@@ -4,8 +4,18 @@ Highly accomplished Data Engineer with a proven track record of designing, imple
 #### Experience & Approach
 * **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
 * **View My Full Resume:** [`chrisblue_full_resume.pdf`](https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf)
-#### Beyond Design
-Outside of design, I enjoy surfing and I maintain a style/grooming guide you can check out [here](https://github.com/hellochris6/malibu-grunge).
+#### Beyond Engineering
+Outside of work, I enjoy surfing and maintain a personal guide on intentional style and grooming called "Malibu Grunge." You can explore it here: https://github.com/hellochris6/malibu-grunge
+#### What I Bring (L5 Capabilities)
+My capabilities include:
+ * Proactive Problem Solving: I don't just solve tickets; I find and resolve deep-seated operational and financial inefficiencies.
+ * Driving Measurable Impact: My projects deliver clear, quantifiable benefits, including cost savings, error reduction, increased efficiency, and improved data governance.
+ * End-to-End Ownership: I take full responsibility for solutions, from conception through development and enterprise-level deployment.
+ * Broad Technical Expertise: I'm proficient in scripting (Python, shell), web apps (Streamlit), cloud services (S3, Glacier), data integration (Airtable), and enterprise deployment (Jamf).
+ * Empowering Others: I build intuitive tools that empower non-technical users and automate complex tasks, demonstrating indirect leadership.
+Experience & Approach
+
+
 #### Let's Connect!
-* **Email:** hellochrisblue@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/02chrisblue
+ * Email: hellochrisblue@gmail.com
+ * LinkedIn: https://www.linkedin.com/in/02chrisblue
