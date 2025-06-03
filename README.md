@@ -1,6 +1,5 @@
 ### About Me
-#### Chris Blue 
-Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
+#### Chris Blue - Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
 
 
 #### Summary
