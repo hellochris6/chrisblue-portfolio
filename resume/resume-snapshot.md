@@ -1,4 +1,5 @@
-#### Chris Blue - Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
+**Chris Blue**
+Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
 
 **Core Competencies & Technologies:**
 * **Cloud Platforms:** AWS (S3, AWS CLI, EC2, CloudFormation, Glue, Redshift - *as you gain more hands-on, expand beyond S3/CLI*)
@@ -8,7 +9,7 @@
 * **ML/AI Data Support:** Efficient ML Content Data Migrations, ML/GPU Concepts
 * **Tools & Methodologies:** FFMPEG, Streamlit, Agile/Scrum, Git/GitHub
 
-**Key Accomplishments & Contributions (Quantified & Impact-Focused):**
+**Key Accomplishments & Contributions:**
 * **Led Large-Scale Data Migrations:** Successfully executed migrations of significant data volumes across diverse ecosystems (BuzzFeed, Meta, Adobe, First We Feast), including critical "Lostin/Bringme" and "Adobe Data Migration" projects, leveraging AWS S3 batch operations and Python scripting for efficiency and reliability.
 * **Streamlined Archiving Processes:** Designed and implemented a self-service archiving workflow for Post Production, which streamlined BuzzFeed's archiving process. 
 * **Developed Internal Automation Tool:** Built an internal web tool to automate manifest generation for efficient ML content data migrations, simplifying complex AWS S3 batch operations and empowering internal teams.
