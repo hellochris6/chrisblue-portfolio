@@ -1,6 +1,6 @@
 ### About Me
 #### Summary
-Highly accomplished Data Engineer with a proven track record of designing, implementing, and optimizing scalable data solutions for large-scale migrations, archiving, and critical business processes. Expertise in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
+Highly accomplished Data Engineer (L5) with a proven track record of designing, implementing, and optimizing scalable data solutions for large-scale migrations, archiving, and critical business processes. Expertise in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
 
 #### Experience & Approach
 * **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
