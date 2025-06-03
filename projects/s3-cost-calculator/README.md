@@ -1,6 +1,6 @@
-Repo Name: storage-monitoring (grafana dashboard)
+Repo Name: s3-cost-calculator
 
-[Project Title: E.g., "Checkout Flow Optimization"]
+Project Title: S3 Cost Calculator
 
 **Problem**
 - Challenge: [Core problem, e.g., "Confusing, lengthy checkout process." ]
