@@ -1,6 +1,6 @@
 Repo Name: postprod-ss-archive
 
-[Project Title: E.g., "Checkout Flow Optimization"]
+Project Title: Post Production Self-Service Archive Application
 
 **Problem**
 - Challenge: [Core problem, e.g., "Confusing, lengthy checkout process." ]
