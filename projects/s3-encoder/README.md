@@ -1,4 +1,4 @@
-[Project Title: E.g., "Checkout Flow Optimization"]
+Project Title: AWS Encoder
 
 Repo Name: aws-encoder
 
