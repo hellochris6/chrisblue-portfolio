@@ -1,18 +1,17 @@
-S3 Glacier Restore Cost Calculator
+#### S3 Glacier Restore Cost Calculator
 
-Context
-Role: FinOps / Cloud Operations Engineer
-Objective: Built a tool to accurately estimate and optionally track AWS S3 Glacier data restoration costs.
+##### Context
+    Role: FinOps / Cloud Operations Engineer
+    Objective: Built a tool to accurately estimate and optionally track AWS S3 Glacier data restoration costs.
 
-Problem
-Challenge: Complex S3 Glacier pricing led to unpredictable retrieval bills and hindered financial planning.
-Data: Lack of cost visibility caused budgeting challenges and audit difficulties.
-(Quick visual: A diagram showing complex pricing factors or a confusing billing statement.)
+#####Problem
+    - Challenge: Complex S3 Glacier pricing led to unpredictable retrieval bills and hindered financial planning.
+    - Data: Lack of cost visibility caused budgeting challenges and audit difficulties.
 
-Action
-Process: Developed an interactive shell script (bash, bc, curl) to estimate costs based on object size/count, supporting Standard/Bulk options.
-Contribution: Automated on-demand cost estimation; integrated optional Airtable logging for finance/audit.
-Seniority: Proactively solved a critical FinOps transparency problem, empowering users and improving financial tracking.
+##### Action
+    - Process: Developed an interactive shell script (bash, bc, curl) to estimate costs based on object size/count, supporting Standard/Bulk options.
+    - Contribution: Automated on-demand cost estimation; integrated optional Airtable logging for finance/audit.
+    - Seniority: Proactively solved a critical FinOps transparency problem, empowering users and improving financial tracking.
 (Visuals: Screenshot of script in action, or a flow diagram of cost calculation.)
 
 Result
