@@ -1,5 +1,3 @@
-Repo Name: s3-cost-calculator
-
 Project Title: S3 Cost Calculator
 
 [Repo Link](https://github.com/hellochris6/s3-cost-calc)
