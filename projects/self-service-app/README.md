@@ -15,7 +15,7 @@
 
 #### Result
     - Solution: A Streamlit web application for reliable, self-service S3 archiving.
-    1 Impact: Eliminated manual errors, ensured precise LucidLink staging, and stored detailed archive records.
+    - Impact: Eliminated manual errors, ensured precise LucidLink staging, and stored detailed archive records.
     - Value: Boosted operational efficiency, reduced misfiles, and improved data governance.
 
 #### Final Product
