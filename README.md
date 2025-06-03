@@ -6,8 +6,7 @@ Highly accomplished Data Engineer with a proven track record of designing, imple
 * **View My Full Resume:** [`chrisblue_full_resume.pdf`](https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf)
 #### Beyond Engineering
 Outside of work, I enjoy surfing and maintain a personal guide on intentional style and grooming called "Malibu Grunge." You can explore it here: https://github.com/hellochris6/malibu-grunge
-#### What I Bring (L5 Capabilities)
-My capabilities include:
+#### What I Bring to the Team
  * Proactive Problem Solving: I don't just solve tickets; I find and resolve deep-seated operational and financial inefficiencies.
  * Driving Measurable Impact: My projects deliver clear, quantifiable benefits, including cost savings, error reduction, increased efficiency, and improved data governance.
  * End-to-End Ownership: I take full responsibility for solutions, from conception through development and enterprise-level deployment.
