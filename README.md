@@ -5,7 +5,7 @@
 #### Summary
 My name is Chris and I specialize in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
 
-#### Experience & Approach
+#### Experience
 * **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
 * **View My Full Resume:** [`chrisblue_full_resume.pdf`](https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf)
 
@@ -15,7 +15,6 @@ My name is Chris and I specialize in leveraging AWS cloud services and Python fo
  * End-to-End Ownership: I take full responsibility for solutions, from conception through development and enterprise-level deployment.
  * Broad Technical Expertise: I'm proficient in scripting (Python, shell), web apps (Streamlit), cloud services (S3, Glacier), data integration (Airtable), and enterprise deployment (Jamf).
  * Empowering Others: I build intuitive tools that empower non-technical users and automate complex tasks, demonstrating indirect leadership.
-Experience & Approach
 
 #### Beyond Engineering
 Outside of work, I enjoy surfing and maintain a personal guide on intentional style and grooming called "Malibu Grunge." You can explore it here: https://github.com/hellochris6/malibu-grunge
