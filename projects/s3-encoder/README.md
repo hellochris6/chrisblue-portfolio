@@ -2,6 +2,8 @@ Project Title: AWS Encoder
 
 Repo Name: aws-encoder
 
+[Repo Link](https://github.com/hellochris6/s3-encoder)
+
 **Problem**
 - Challenge: [Core problem, e.g., "Confusing, lengthy checkout process." ]
 - Data: [Most impactful data point, e.g., "45% cart abandonment at payment step."] (Quick visual of the problem: chart, user quote, or old UI screenshot.)
