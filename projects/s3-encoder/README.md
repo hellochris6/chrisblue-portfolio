@@ -1,7 +1,5 @@
 Project Title: AWS Encoder
 
-Repo Name: aws-encoder
-
 [Repo Link](https://github.com/hellochris6/s3-encoder)
 
 **Problem**
