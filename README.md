@@ -9,6 +9,11 @@ My name is Chris and I specialize in leveraging AWS cloud services and Python fo
 * **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
 * **View My Full Resume:** [`chrisblue_full_resume.pdf`](https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf)
 
+#### Projects I've Contributed
+- [S3 Cost Calculator](https://github.com/hellochris6/chrisblue-portfolio/tree/main/projects/s3-cost-calculator)
+- [S3 Encoder](https://github.com/hellochris6/chrisblue-portfolio/tree/main/projects/s3-encoder)
+- [Self-Service App](https://github.com/hellochris6/chrisblue-portfolio/tree/main/projects/self-service-app)
+
 #### What I'll Bring to the Team
  * Proactive Problem Solving: I don't just solve tickets; I find and resolve deep-seated operational and financial inefficiencies.
  * Driving Measurable Impact: My projects deliver clear, quantifiable benefits, including cost savings, error reduction, increased efficiency, and improved data governance.
