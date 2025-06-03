@@ -2,8 +2,7 @@
 
 #### Context
 - Role: FinOps / Cloud Operations Engineer
-
-* Objective: Built a tool to accurately estimate and optionally track AWS S3 Glacier data restoration costs.
+- Objective: Built a tool to accurately estimate and optionally track AWS S3 Glacier data restoration costs.
 
 #### Problem
 Challenge: Complex S3 Glacier pricing led to unpredictable retrieval bills and hindered financial planning.
