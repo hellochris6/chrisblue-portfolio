@@ -1,3 +1,5 @@
+### Resume Snapshot
+
 #### Chris Blue - Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
 
 **Core Competencies & Technologies:**
