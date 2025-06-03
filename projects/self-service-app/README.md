@@ -1,7 +1,7 @@
 Repo Name: postprod-ss-archive
 
 Project Title: Post Production Self-Service Archive Application
-[Repo Link] (https://github.com/hellochris6/postprd-ss-archive)
+[Repo Link](https://github.com/hellochris6/postprd-ss-archive)
 
 **Problem**
 - Challenge: [Core problem, e.g., "Confusing, lengthy checkout process." ]
