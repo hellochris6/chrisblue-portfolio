@@ -1,4 +1,5 @@
 **Chris Blue**
+Data Engineer (L5) | Cloud & Big Data Solutions | Automation & ML Data Pipelines
 
 **Core Competencies & Technologies:**
 * **Cloud Platforms:** AWS (S3, AWS CLI, EC2, CloudFormation, Glue, Redshift - *as you gain more hands-on, expand beyond S3/CLI*)
