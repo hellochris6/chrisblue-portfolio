@@ -5,7 +5,7 @@
 #### Summary
 My name is Chris and I specialize in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
 
-## Key Metrics
+#### Key Metrics
 
 - **100+ TB** of critical media content successfully migrated across multiple platforms, improving transfer efficiency by **25%**.  
 - Automated media manifest generation, reducing preparation time by **50%** with a custom internal web tool.  
