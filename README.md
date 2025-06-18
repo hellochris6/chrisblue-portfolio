@@ -15,9 +15,9 @@ My name is Chris and I specialize in leveraging AWS cloud services and Python fo
 - Developed **10+** automated Python workflows that enhanced post-production data handling efficiency and accuracy.
 
 #### Experience
+* **Currently Working On:** [`currently_working_on.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/projects/currently_working_on.md)
 * **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
 * **View My Full Resume:** [`chrisblue_full_resume.pdf`](https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf)
-* **Currently Working On:** [`currently_working_on.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/projects/currently_working_on.md)
 
 #### What I'll Bring to the Team
  * Proactive Problem Solving: I don't just solve tickets; I find and resolve deep-seated operational and financial inefficiencies.
