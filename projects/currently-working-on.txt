@@ -1,0 +1,4 @@
+#### Currently Working On:
+Developing a complete asset management workflow integrating Iconik with Airtable. The process starts with a Python script that fetches assets from Iconik filtered by specific criteria (e.g., unknown media type, archived status) and uploads detailed asset records into Airtable in batches.
+
+Then, an Airtable automation script integrated with the Iconik API, updates the asset metadata dynamically. The script extracts file extension information from Airtable records, maps it to the appropriate MIME type, and sends an authenticated PUT request to Iconik to update the asset’s media type and related metadata. The automation includes error handling and updates Airtable fields as confirmation upon successful completion; focuses on maintaining accurate media classifications. 
