@@ -5,6 +5,15 @@
 #### Summary
 My name is Chris and I specialize in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
 
+## Key Metrics
+
+- **100+ TB** of critical media content successfully migrated across multiple platforms, improving transfer efficiency by **25%**.  
+- Automated media manifest generation, reducing preparation time by **50%** with a custom internal web tool.  
+- Scaled weekly data backups from **20 TB to 100 TB**, increasing backup capacity **5x** while ensuring high durability and availability.  
+- Reduced storage costs by **50%** through proactive disk usage management across AWS and NAS/SAN storage pools.  
+- Streamlined archiving workflows to enable **100 TB/month** of data archival without manual intervention.  
+- Developed **10+** automated Python workflows that enhanced post-production data handling efficiency and accuracy.
+
 #### Experience
 * **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
 * **View My Full Resume:** [`chrisblue_full_resume.pdf`](https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf)
