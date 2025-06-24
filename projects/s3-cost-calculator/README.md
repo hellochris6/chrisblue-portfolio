@@ -9,7 +9,7 @@
 - Data: Lack of cost visibility caused budgeting challenges and audit difficulties.
 
 #### Action
-- Process: Developed an interactive shell script (bash, bc, curl) to estimate costs based on object size/count, supporting Standard/Bulk options.
+- Process: Developed an interactive shell script to estimate costs based on object size/count, supporting Standard/Bulk options.
 - Contribution: Automated on-demand cost estimation; integrated optional Airtable logging for finance/audit.
 - Seniority: Proactively solved a critical FinOps transparency problem, empowering users and improving financial tracking.
 
