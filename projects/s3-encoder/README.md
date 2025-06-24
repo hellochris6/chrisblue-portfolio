@@ -9,7 +9,7 @@
 - Data: Frequent operation failures and workflow delays caused by incorrect key encoding.
 
 #### Action
-- Process: Developed a Python 3.x script to read CSV input, URL-encode S3 object keys (urllib.parse.quote), and output a new encoded CSV.
+- Process: Developed a Python script to read CSV input, URL-encode S3 object keys (urllib.parse.quote), and output a new encoded CSV.
 - Contribution: Independently designed and implemented a self-contained solution, requiring no external dependencies.
 - Seniority: Identified and resolved a critical operational bottleneck, delivering a targeted utility to unblock essential data workflows.
 
