@@ -8,3 +8,5 @@ Developing a complete asset management workflow integrating Iconik with Airtable
 - Sending authenticated PUT requests to Iconik to update the asset’s media type and related metadata.
 - Implementing error handling and updating Airtable confirmation fields upon successful completion.
 - Ensuring accurate and up-to-date media classifications for assets.
+
+[iconik-repo](https://github.com/hellochris6/iconik)
