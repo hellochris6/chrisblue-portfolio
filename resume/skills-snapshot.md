@@ -9,9 +9,8 @@ Data Engineer | Cloud, Automation, & Data Pipelines
 * **Big Data & Data Warehousing**: ETL/ELT Pipelines, Schema Design, Relational & Dimensional Data Modeling, OLAP Concepts
 * **Data Management**: Data Integrity, Data Quality, Data Governance, Performance Tuning, Cost Optimization.
 * **Automation & Workflow**: Data Validation, Monitoring Solutions, REST API Design & Usage, CI/CD Concepts.
-* **Tools & Methodologies**: Streamlit, Grafana, Agile/Scrum Framework, Git/GitHub.
+* **Tools & Methodologies**: AWS CLI & SDK, Streamlit, Grafana, Agile/Scrum Framework, Git/GitHub.
 
 **Professional Development & Certifications:**
-* **CSPO Certification**
-* **Pendo Product Management Certification**
-* **Proficient in:** AWS Command Line Interface Usage, Agile/Scrum Framework, REST API Design and Usage, Python Usage
+* CSPO Certification
+* Pendo Product Management Certification
