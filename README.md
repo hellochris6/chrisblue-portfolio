@@ -1,4 +1,4 @@
-### About Me: 
+### About Me
 
 #### Chris Blue
 Data Engineer | Cloud, Automation, & Data Pipelines
