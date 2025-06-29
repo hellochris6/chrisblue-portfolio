@@ -1,11 +1,12 @@
-### About Me: Chris Blue - Data Engineer 
-#### Data Engineer | Cloud, Automation, & Data Pipelines
+### About Me: 
+
+#### Chris Blue
+Data Engineer | Cloud, Automation, & Data Pipelines
 
 #### Summary
 My name is Chris and I specialize in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
 
 #### Key Metrics
-
 - **100+ TB** of critical media content successfully migrated across multiple platforms, improving transfer efficiency by **25%**.  
 - Automated media manifest generation, reducing preparation time by **50%** with a custom internal web tool.  
 - Scaled weekly data backups from **20 TB to 100 TB**, increasing backup capacity **5x** while ensuring high durability and availability.  
@@ -15,8 +16,8 @@ My name is Chris and I specialize in leveraging AWS cloud services and Python fo
 
 #### Experience
 * **Currently Working On:** [`currently_working_on.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/projects/currently_working_on.md)
-* **View My Resume Snapshot:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
-* **View My Full Resume:** [`chrisblue_full_resume.pdf`]([https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/ChrisBlue-Resume.pdf)
+* **View a Snapshot of My Skills:** [`resume_snapshot.md`](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/resume-snapshot.md)
+* **View My Full Resume:** [`chrisblue-resume.pdf`]([https://github.com/hellochris6/chrisblue-portfolio/blob/26db8a1693140637c24ebf5660c288015273e583/resume/chrisblue-full-resume.pdf](https://github.com/hellochris6/chrisblue-portfolio/blob/main/resume/ChrisBlue-Resume.pdf)
 
 #### What I'll Bring to the Team
  * Proactive Problem Solving: I don't just solve tickets; I find and resolve deep-seated operational and financial inefficiencies.
