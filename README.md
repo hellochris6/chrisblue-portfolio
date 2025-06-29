@@ -1,6 +1,5 @@
-### About Me: Chris Blue - Data Engineer (L5) 
-#### Cloud & Big Data Solutions | Automation & ML Data Pipelines
-
+### About Me: Chris Blue - Data Engineer 
+#### Data Engineer | Cloud, Automation, & Data Pipelines
 
 #### Summary
 My name is Chris and I specialize in leveraging AWS cloud services and Python for building robust data pipelines, automating complex workflows, and managing significant data volumes. 
