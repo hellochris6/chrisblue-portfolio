@@ -1,10 +1,14 @@
 #### Currently Working On
-Developing a complete asset management workflow integrating Iconik with Airtable. The process includes:
+Situation: Identify Iconik assets missing media type classification (UNKNOWN) and programmatically correct them by adding the appropriate component metadata based on file extension.
 
-- A Python script that fetches assets from Iconik filtered by specific criteria (e.g., unknown media type, archived status).
-- Uploading detailed asset records into Airtable in batches.
-- An Airtable automation script that integrates with the Iconik API to update asset metadata.
-- Extracting file extension info from Airtable records, mapping it to the correct MIME type.
-- Sending authenticated PUT requests to Iconik to update the asset’s media type and related metadata.
-- Implementing error handling and updating Airtable confirmation fields upon successful completion.
-- Ensuring accurate and up-to-date media classifications for assets.
+Task: Develop and refine an API-based filter for listing archived and unknown media assets in Iconik; fetch list and update component information for each asset (media type and metadata).
+
+Actions: 
+- Built a FastAPI app with endpoints to start the ljob and check status	
+- Wrote a background task runner that: 
+- Queries Iconik for assets with media_type='UNKNOWN' and is_archived=true		
+- Infers type from file extension
+- Posts new components to Iconik with appropriate metadata
+- Deployed the app live using Render
+- Added progress tracking via in-memory job status store
+
