@@ -4,11 +4,10 @@
 **Task:** Develop and refine an API-based filter for listing archived and unknown media assets in Iconik; fetch list and update component information for each asset (media type and metadata).
 
 **Actions:**
-- Built a FastAPI app with endpoints to start the ljob and check status	
+- Built a FastAPI app with endpoints to start the job and check status	
 - Wrote a background task runner that: 
-- Queries Iconik for assets with media_type='UNKNOWN' and is_archived=true		
-- Infers type from file extension
-- Posts new components to Iconik with appropriate metadata
+  - Queries Iconik for assets with media_type='UNKNOWN' and is_archived=true		
+  - Infers type from file extension
+  - Posts new components to Iconik with appropriate metadata
 - Deployed the app live using Render
 - Added progress tracking via in-memory job status store
-
